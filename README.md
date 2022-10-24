@@ -1,10 +1,10 @@
-### Hi there 👋!
+## Hi !
 
 <p>:man_technologist:I'm Front-End Developer</p>
 
 <br/>
 
-> <h2>My Skills</h2>
+> <h2>Skills</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,git,github)](https://skillicons.dev)
 
