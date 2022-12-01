@@ -1,14 +1,24 @@
-## Hi !
+## -Hi :man_technologist:
 
-<p>:man_technologist:I'm Front-End Developer</p>
+<p>
+I'm a Front-End Developer (React.JS).<br />
+You can see my portfolio<br />
+I’m currently learning TypeScript<br/>
+</p>
 
 <br/>
 
 > <h2>Skills</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,git,github)](https://skillicons.dev)
-
-<br/>
+  <br />
+  
+  > <h3>Github States:</h3>
+  
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nima404&show_icons=true&theme=radical)
+  
+<br/> 
 
 > <h3>Contact Me</h3>
 
@@ -21,7 +31,7 @@
   <a href="https://wa.me/+989190186083" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
-  
+<br/>
   <h2></h2>
   
   <div align="center">
