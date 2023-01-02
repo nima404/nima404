@@ -44,5 +44,7 @@ I’m currently learning TypeScript<br/>
   <h2></h2>
   
   <div align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
 <img src="https://stories.freepiklabs.com/storage/23333/online-games-addiction-bro-2889.png" height="300"/>
+<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
 </div>
