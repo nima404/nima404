@@ -18,6 +18,7 @@ I’m currently learning TypeScript<br/>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nima404&show_icons=true&theme=radical)
 <br/>
+<br/>
 <img src="https://github-profile-trophy.vercel.app/?username=nima404&theme=onedark&row=1" />
 <br/>
 
