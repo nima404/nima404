@@ -29,7 +29,7 @@ I’m currently learning TypeScript<br/>
 <br/>
 <br/> 
 
-> Test
+> <h3>Test</h3>
 <img src=https://github-profile-trophy.vercel.app/?username=nima404&theme=onedark&row=1 />
 <br/><br/>
 
@@ -45,7 +45,6 @@ I’m currently learning TypeScript<br/>
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 <br/>
-  <h2></h2>
   
   <div align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
