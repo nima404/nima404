@@ -29,8 +29,8 @@ I’m currently learning TypeScript<br/>
 <br/>
 <br/> 
 
-> <h3>Test</h3>
-<img src=https://github-profile-trophy.vercel.app/?username=nima404&theme=onedark&row=1 />
+>  
+<img src="https://github-profile-trophy.vercel.app/?username=nima404&theme=onedark&row=1" />
 <br/><br/>
 
 > <h3>Contact Me</h3>
