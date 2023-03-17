@@ -29,6 +29,10 @@ I’m currently learning TypeScript<br/>
 <br/>
 <br/> 
 
+> Test
+<img src=https://github-profile-trophy.vercel.app/?username=nima404&theme=onedark&row=1 />
+<br/><br/>
+
 > <h3>Contact Me</h3>
 
   <a href="https://telegram.me/emptydev" target="_blank">
