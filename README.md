@@ -17,7 +17,7 @@ I’m currently learning TypeScript<br/>
   
 
 
-  > <h3>Github States</h3>
+<!--   > <h3>Github States</h3>
   
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nima404&show_icons=true&theme=radical)
@@ -34,15 +34,15 @@ I’m currently learning TypeScript<br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nima404&repo=Dashboard" />
 </a>
 <br/>
-<br/> 
+<br/>  -->
 
 
 > <h3>Contact Me</h3>
 
-  <a href="https://telegram.me/emptydev" target="_blank">
+  <a href="https://www.linkedin.com/in/nima-tajik-6327701a8/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
-  <a href="https://telegram.me/emptydev" target="_blank">
+  <a href="https://telegram.me/Unassuming_Dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
   <a href="https://wa.me/+989190186083" target="_blank">
