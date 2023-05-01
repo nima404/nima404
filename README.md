@@ -11,8 +11,12 @@ I’m currently learning TypeScript<br/>
 > <h2>Skills</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,next,redux,ts,git,github)](https://skillicons.dev)
-  <br />
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nima404&langs_count=10&title_color=57bcda&text_color=ffffff&icon_color=facc15&bg_color=20232a&locale=en&hide_border=true&custom_title=Top%20%Languages" alt="Top Languages"/>
   
+
+
   > <h3>Github States</h3>
   
   
