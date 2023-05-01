@@ -12,8 +12,7 @@ I’m currently learning TypeScript<br/>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,next,redux,ts,git,github)](https://skillicons.dev)
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nima404&langs_count=10&title_color=57bcda&text_color=ffffff&icon_color=facc15&bg_color=20232a&locale=en&hide_border=true&custom_title=Top%20%Languages" alt="Top Languages"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nima404&show_icons=true&locale=en&layout=compact" alt="higordevv" />
   
 
 
