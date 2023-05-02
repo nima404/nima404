@@ -13,28 +13,6 @@ I’m currently learning TypeScript<br/>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,next,redux,ts,git,github)](https://skillicons.dev)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nima404&show_icons=true&locale=en&layout=compact" alt="higordevv" />
-  
-
-
-<!--   > <h3>Github States</h3>
-  
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nima404&show_icons=true&theme=radical)
-<br/>
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=nima404&theme=onedark&row=1" />
-<br/>
-
-> <h3>Best Projects</h3>
-<a href="https://github.com/nima404/Bank-maskan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nima404&repo=Bank-maskan" />
-</a>
-<a href="https://github.com/nima404/Dashboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nima404&repo=Dashboard" />
-</a>
-<br/>
-<br/>  -->
-
 
 > <h3>Contact Me</h3>
 
