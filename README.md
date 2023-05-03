@@ -10,7 +10,7 @@ I’m currently learning TypeScript<br/>
 
 > <h2>Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,next,redux,ts,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,next,redux,ts,git,github,figma,ps)](https://skillicons.dev)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nima404&show_icons=true&locale=en&layout=compact" alt="higordevv" />
 
