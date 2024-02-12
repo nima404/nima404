@@ -1,16 +1,17 @@
 ## -Hi :man_technologist:
 
 <p>
-I'm a Front-End Developer (React.JS).<br />
+I'm a MERN Stack Developer.<br />
 You can see my portfolio<br />
-I’m currently learning TypeScript<br/>
 </p>
 
 <br/>
 
 > <h2>Skills</h2>
 
+- Front-End
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,next,redux,ts,git,github,figma,ps)](https://skillicons.dev)
+- Back-End
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nima404&show_icons=true&locale=en&layout=compact" alt="higordevv" />
 
