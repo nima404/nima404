@@ -11,10 +11,13 @@ I'm a MERN Stack Developer.<br />
 > <h2>Skills</h2>
 
 - Front-End <br/>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,next,redux,ts,git,github,figma,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,next,redux,ts)](https://skillicons.dev)
 <br/><br/>
 - Back-End <br/>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,mongo,mysql,prisma)](https://skillicons.dev)
+
+- Other <br/>
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 
 > <h3>Contact Me</h3>
