@@ -2,18 +2,20 @@
 
 <p>
 I'm a MERN Stack Developer.<br />
-You can see my portfolio<br />
+
+- My current project is BaseLearn.ir , which I am currently developing its backend, and the topic of the site is related to frontend specialized training.
 </p>
 
 <br/>
 
 > <h2>Skills</h2>
 
-- Front-End
+- Front-End <br/>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,next,redux,ts,git,github,figma,ps)](https://skillicons.dev)
-- Back-End
+<br/><br/>
+- Back-End <br/>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,mongo,mysql,prisma)](https://skillicons.dev)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nima404&show_icons=true&locale=en&layout=compact" alt="higordevv" />
 
 > <h3>Contact Me</h3>
 
@@ -27,9 +29,3 @@ You can see my portfolio<br />
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 <br/>
-  
-  <div align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-<img src="https://stories.freepiklabs.com/storage/23333/online-games-addiction-bro-2889.png" height="300"/>
-<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
-</div>
