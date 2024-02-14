@@ -19,7 +19,6 @@ I'm a MERN Stack Developer.<br />
 - Other <br/>
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
-
 > <h3>Contact Me</h3>
 
   <a href="https://www.linkedin.com/in/nima-tajik-6327701a8/" target="_blank">
@@ -31,4 +30,5 @@ I'm a MERN Stack Developer.<br />
   <a href="https://wa.me/+989190186083" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
-<br/>
+<br/><br/>
+<img src="https://github-profile-trophy.vercel.app/?username=nima404" alt="nimatajik" />
