@@ -30,5 +30,3 @@ I'm a MERN Stack Developer.<br />
   <a href="https://wa.me/+989190186083" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
-<br/><br/>
-<img src="https://github-profile-trophy.vercel.app/?username=nima404" alt="nimatajik" />
