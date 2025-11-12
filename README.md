@@ -1,6 +1,6 @@
 ## -Hi :man_technologist:
 
-> <h2>Skills | FrontEnd - BackEnd - Security</h2>
+> <h2>Skills / FrontEnd - BackEnd - Security</h2>
 
 - **Security Specialist** <br/>
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,openssl)](https://skillicons.dev)
